@@ -7,7 +7,6 @@
 //
 
 import UIKit
-//import Appearance
 
 @IBDesignable
 public class CSOTPView: UIView, NibLoadable {
